@@ -1,1 +1,1 @@
-# school-javascript-game
+# A javascript snake game.
